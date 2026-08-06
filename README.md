@@ -1,1 +1,1 @@
-# circuitos_digitais
+# materiais de Projeto de Circuitos Digitais
